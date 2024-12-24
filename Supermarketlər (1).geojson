@@ -1,0 +1,28 @@
+﻿{
+  "type": "FeatureCollection",
+  "name": "Supermarketlər",
+  "features": [
+    { 
+      "type": "Feature", 
+      "properties": { 
+        "Name": "Ən Ucuz Market 9mkr", 
+        "description": 994557847612 
+      }, 
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [49.6782577, 40.570913] 
+      } 
+    },
+    { 
+      "type": "Feature", 
+      "properties": { 
+        "Name": "Ceyranbatan Ən Ucuz Market", 
+        "description": 994503202313 
+      }, 
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [49.6617917, 40.5415047] 
+      } 
+    }
+  ]
+}
