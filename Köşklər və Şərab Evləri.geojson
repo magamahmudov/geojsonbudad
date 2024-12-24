@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Köşklər və Şərab Evləri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Köşk (Buzovna)", "description": 994503502110 }, "geometry": { "type": "Point", "coordinates": [ 50.101986, 40.524292, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Köşk (Stimulun arxası)", "description": 994708406700 }, "geometry": { "type": "Point", "coordinates": [ 49.956947, 40.433739, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Köşk (Qarayev m/s yanı)", "description": 994777589957 }, "geometry": { "type": "Point", "coordinates": [ 49.937344, 40.417076, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Köşk (Sərhəçi Günəşli yolu)", "description": 994503219919 }, "geometry": { "type": "Point", "coordinates": [ 49.956417, 40.395008, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Şərabistan-Kənan", "description": 994554356779 }, "geometry": { "type": "Point", "coordinates": [ 49.8430383, 40.4126773, 0.0 ] } }
+]
+}
